@@ -29,7 +29,7 @@
 ![JupiterNotebook](https://img.shields.io/badge/-Jupyter-69b5cc?style=for-the-badge&logo=jupyter)
 ![Tableau](https://img.shields.io/badge/-Tableau-69b5cc?style=for-the-badge&logo=tableau)
 ![PowerBI](https://img.shields.io/badge/-PowerBI-69b5cc?style=for-the-badge&logo=powerbi)
-![Excel](https://img.shields.io/badge/-Excel-69b5cc?style=for-the-badge&logo=excel)
+![Office](https://img.shields.io/badge/-Office-69b5cc?style=for-the-badge&logo=office)
 ![BPMN](https://img.shields.io/badge/-BPMN-69b5cc?style=for-the-badge&logo=bpmn)
 
 <div align="center">
