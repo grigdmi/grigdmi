@@ -5,7 +5,7 @@
   <a href="your-telegram-URL">
     <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram Badge"/>
   </a>
-  <a href="your-mail-URL">
+  <a href="mailto:mr.Gdi@yandex.ru">mr.Gdi@yandex.ru</a>
     <img src="https://img.shields.io/badge/mail-red?style=for-the-badge&logo=mail&logoColor=white" alt="mail Badge"/>
   </a>
 </div>
