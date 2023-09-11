@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHBxeHBjOG1yOWllaTVzNXMycm90aDNrbnFkNmJ2amIwOWpna3d6bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hUPYQchGyooEo3LwGA/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="your-telegram-URL">
+  <a href="https://t.me/gmityai">
     <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram Badge"/>
   </a>
   <a href="mailto:mr.Gdi@yandex.ru">
