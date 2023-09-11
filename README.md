@@ -1,12 +1,6 @@
-<p align="center">
-      <img src="https://i.ibb.co/4ZtkW8Q/60a261cdcc3468fac57fd68c-business-analyst.png" alt="Project Logo Url" width="726">
-</p>
-
-<p align="center">
-   <img src="" alt="Unity Version">
-   <img src="" alt="Game Version">
-   <img src="" alt="License">
-</p>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHBxeHBjOG1yOWllaTVzNXMycm90aDNrbnFkNmJ2amIwOWpna3d6bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hUPYQchGyooEo3LwGA/giphy.gif" width="100"/>
+</div>
 
 ## Обо мне
 
