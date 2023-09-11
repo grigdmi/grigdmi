@@ -1,5 +1,3 @@
-### Hi 👋
-
 <p align="center">
       <img src="https://i.ibb.co/4ZtkW8Q/60a261cdcc3468fac57fd68c-business-analyst.png" alt="Project Logo Url" width="726">
 </p>
