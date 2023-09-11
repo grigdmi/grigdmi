@@ -30,6 +30,7 @@
 ![Tableau](https://img.shields.io/badge/-Tableau-69b5cc?style=for-the-badge&logo=tableau)
 ![PowerBI](https://img.shields.io/badge/-PowerBI-69b5cc?style=for-the-badge&logo=powerbi)
 ![Excel](https://img.shields.io/badge/-Excel-69b5cc?style=for-the-badge&logo=excel)
+![BPMN](https://img.shields.io/badge/-BPMN-69b5cc?style=for-the-badge&logo=bpmn)
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
