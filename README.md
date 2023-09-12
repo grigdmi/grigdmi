@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2owdHBkZDUyOThrd291a2RvdWhlaWF1azNlbHI4aWhnb2JjZGkxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gniz0qUijH8T7yRQWR/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJsYTd1ejFoaTY0YzZqa3c4MG1mejZvb2lrZTV3bmdidmc0ZmNrbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qzlDwEfl9D4ajipglN/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
   <a href="https://t.me/gmityai">
